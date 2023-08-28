@@ -1,5 +1,5 @@
 import 'react/jsx-runtime';
-
+https://github.com/Wolox/react-chat-widget
 import ConnectedWidget from './src';
 import {
   addUserMessage,
